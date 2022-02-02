@@ -1,0 +1,205 @@
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Library.exe
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Library.deps.json
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Library.runtimeconfig.json
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Library.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\ref\Library.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Library.pdb
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo Thinkpad\Library\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.xml
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\scopedcss\bundle\Library.styles.css
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.csproj.CopyComplete
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.dll
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\ref\Library.dll
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.pdb
+C:\Users\Lenovo Thinkpad\Library\obj\Debug\net5.0\Library.genruntimeconfig.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Library.exe
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Library.deps.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Library.runtimeconfig.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\ref\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Library.pdb
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.xml
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\scopedcss\bundle\Library.styles.css
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.csproj.CopyComplete
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\ref\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.pdb
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB\obj\Debug\net5.0\Library.genruntimeconfig.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Library.exe
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Library.deps.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Library.runtimeconfig.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\ref\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Library.pdb
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.xml
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\scopedcss\bundle\Library.styles.css
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.csproj.CopyComplete
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\ref\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.pdb
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - MongoDB - Kopya\obj\Debug\net5.0\Library.genruntimeconfig.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Library.exe
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Library.deps.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Library.runtimeconfig.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\ref\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Library.pdb
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.xml
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\scopedcss\bundle\Library.styles.css
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.csproj.CopyComplete
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\ref\Library.dll
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.pdb
+C:\Users\Lenovo Thinkpad\Desktop\ToombaProject-C#\Library - dotNet RestApi\obj\Debug\net5.0\Library.genruntimeconfig.cache
